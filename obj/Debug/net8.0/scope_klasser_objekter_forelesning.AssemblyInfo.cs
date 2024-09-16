@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scope_klasser_objekter_forelesning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb56f1735030d4162d4344e066dc5db12cd0c71e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29979a4cdb69d88d8a93394e3f4faa4f45f340a")]
 [assembly: System.Reflection.AssemblyProductAttribute("scope_klasser_objekter_forelesning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scope_klasser_objekter_forelesning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
