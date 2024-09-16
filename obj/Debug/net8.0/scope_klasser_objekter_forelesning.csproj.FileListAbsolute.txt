@@ -1,0 +1,14 @@
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\bin\Debug\net8.0\scope_klasser_objekter_forelesning.exe
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\bin\Debug\net8.0\scope_klasser_objekter_forelesning.deps.json
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\bin\Debug\net8.0\scope_klasser_objekter_forelesning.runtimeconfig.json
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\bin\Debug\net8.0\scope_klasser_objekter_forelesning.dll
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\bin\Debug\net8.0\scope_klasser_objekter_forelesning.pdb
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.AssemblyInfoInputs.cache
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.AssemblyInfo.cs
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.csproj.CoreCompileInputs.cache
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.dll
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\refint\scope_klasser_objekter_forelesning.dll
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.pdb
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\scope_klasser_objekter_forelesning.genruntimeconfig.cache
+C:\Users\joach\Desktop\scope_klasser_objekter_forelesning\obj\Debug\net8.0\ref\scope_klasser_objekter_forelesning.dll
