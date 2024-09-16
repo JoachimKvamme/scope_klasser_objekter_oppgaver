@@ -12,10 +12,10 @@ interface ICalculator
     /// <summary>
     /// Denne funksjonen tar to tall av typen dobbel, og trekker det siste tallet fra det første.
     /// </summary>
-    /// <param name="x">Første tall, som det andre trekkes fra</param>
-    /// <param name="y">Andre tall, mengden man trekker fra det første tallet</param>
+    /// <param name="x">Minuend, mengden man subtraherer fra.</param>
+    /// <param name="y">Subtrahend, mengden man trekker fra minuenden.</param>
     /// <returns></returns>
-    double SubtractNumbers(double x, double y);
+    double SubtractNumbers(double minuend, double subtrahend);
 
     /// <summary>
     /// Denne metoden dividerer et tall (telleren) på et annet (nevneren).
@@ -24,4 +24,11 @@ interface ICalculator
     /// <param name="nevner">Nevneren</param>
     /// <returns></returns>
     double DivideNumbers(double teller, double nevner);
+    /// <summary>
+    /// Multipliserer et tall med et annet
+    /// </summary>
+    /// <param name="x">Første tall</param>
+    /// <param name="y">Andre tall</param>
+    /// <returns></returns>
+    double MultiplyNumbers(double x, double y);
 }
